@@ -12,6 +12,6 @@
 
     <com.ryanhuen.leavesloadingbar.view.LeavesLoadingBar
         android:id="@+id/leaves_loading_bar"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent" />
+        android:layout_width="302dp"
+        android:layout_height="61dp" />
 </RelativeLayout>
