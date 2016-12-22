@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CustomPieChart/CustomPieChart.iml" filepath="$PROJECT_DIR$/CustomPieChart/CustomPieChart.iml" />
       <module fileurl="file://$PROJECT_DIR$/CustomViewCareer.iml" filepath="$PROJECT_DIR$/CustomViewCareer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baseanimation/baseanimation.iml" filepath="$PROJECT_DIR$/baseanimation/baseanimation.iml" />
       <module fileurl="file://$PROJECT_DIR$/leavesloadingbar/leavesloadingbar.iml" filepath="$PROJECT_DIR$/leavesloadingbar/leavesloadingbar.iml" />
     </modules>
   </component>

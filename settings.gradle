@@ -1,1 +1,1 @@
-include ':CustomPieChart', ':leavesloadingbar'
+include ':CustomPieChart', ':leavesloadingbar', ':baseanimation'

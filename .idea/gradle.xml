@@ -9,6 +9,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/CustomPieChart" />
+            <option value="$PROJECT_DIR$/baseanimation" />
             <option value="$PROJECT_DIR$/leavesloadingbar" />
           </set>
         </option>
